@@ -18,4 +18,6 @@ git clone https://github.com/usuario/repositorioPrueba.git
 
 ## Autor
 
+``` bash
 Ismaluffy
+```
